@@ -146,6 +146,17 @@ HDFS layout
 - Add latency/throughput metrics in Gold.
 - Package edge apps with a cross‑platform launcher.
 
+## 👥 Research & Development Team
+
+While this repository is hosted on my personal profile, the design, training, and streaming analytics pipelines for this multimodal emotion detection system were built in close collaboration with my research team:
+
+*   **Vignesh V S** ([VigneshVS2005](https://github.com/VigneshVS2005)) — Project Owner, YOLO/ViT Models & Streaming
+*   **Karthick Ruban** ([Karthickruban](https://github.com/Karthickruban)) — Scala Data Preprocessing & HDFS Optimization
+*   **Hariprakash** ([Hariprakash024](https://github.com/Hariprakash024)) — Real-Time Edge Producers & Webcam Pipeline
+*   **Sanjay Senthil** ([sanjaysenthil17](https://github.com/sanjaysenthil17)) — Model Validation, KPIs, & Spark Architecture
+
+For a detailed breakdown of each member's contributions and profiles, please see [CONTRIBUTORS.md](./CONTRIBUTORS.md).
+
 ## 🤝 Contributing
 PRs welcome. Please open an issue for bugs or enhancements.
 
