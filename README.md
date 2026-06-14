@@ -29,7 +29,7 @@ spark/
   spark_vit_yolo_streaming.py   # Streaming → Bronze/Silver/Gold
 ```
 
-## 📦 Data: 9 Facial Expressions (Kaggle)
+## 📦 Data: 9 Facial Expressions (Kaggle).
 Classes: angry, disgust, fear, happy, neutral, sad, surprise, (and your set’s two more). Organize as train/valid/test with images/labels. The Scala job reads image bytes + labels, sets 224×224×3 meta, and writes Parquet shards to HDFS for parallel IO.
 
 Commands (example)
