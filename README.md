@@ -8,7 +8,6 @@ A production‑style, big‑data pipeline that:
 - Preprocesses the Kaggle dataset with Scala into Parquet on HDFS for faster training/analytics.
 - Streams batched JSON events into Spark, producing Bronze, Silver, and Gold layers.
 
-Made with ❤️ by VigneshVS2005
 
 ## ✨ What’s inside
 - Edge producers (YOLO + ViT): bounding boxes, emotions, confidence, persistent person IDs, optional audio prompts.
